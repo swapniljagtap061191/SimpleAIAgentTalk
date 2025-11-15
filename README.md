@@ -51,13 +51,3 @@ Memory:
 While: condition plus loop
 - LLM -> Condition Check
 - LLM -> Condition Check w/ loop
-
-
-## Thanks
-
-We are hiring people to help us build agents: https://manufactured.com/careers/ join us!
-
-
-## Citations
-
-- [1] swyx on X: https://x.com/swyx/status/1843299770238181825
